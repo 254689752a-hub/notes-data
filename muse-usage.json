@@ -2,21 +2,26 @@
   "extra_pool": {
     "note": "周额度用完后自动接管",
     "remaining_pct": 99,
+    "sub_line": "已用 1% · 还剩约 59 亿 tokens",
     "tokens_left": 5900000000,
     "tokens_left_text": "约 59 亿",
     "used_pct": 1
   },
   "plan": "free",
+  "plan_text": "免费档",
   "schema": 1,
   "source": "muse subscription-status",
-  "updated_at": "2026-11-16T15:01:01+08:00",
+  "updated_at": "2026-11-16T16:30:44+08:00",
   "updated_date": "2026-11-16",
-  "updated_seconds": 54061,
-  "updated_text": "11月16日 15:01",
+  "updated_seconds": 59444,
+  "updated_short": "11/16 16:30",
+  "updated_text": "11月16日 16:30",
   "weekly": {
     "remaining_pct": 0,
     "reset_at": "2026-11-17T20:34:00+08:00",
+    "reset_line": "11/17 周二 20:34 重置 · 还剩 1 天",
     "reset_text": "11月17日 20:34",
+    "sub_line": "免费档 · 已用 100%",
     "used_pct": 100
   }
 }
