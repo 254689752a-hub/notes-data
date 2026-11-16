@@ -1,0 +1,22 @@
+{
+  "extra_pool": {
+    "note": "周额度用完后自动接管",
+    "remaining_pct": 99,
+    "tokens_left": 5900000000,
+    "tokens_left_text": "约 59 亿",
+    "used_pct": 1
+  },
+  "plan": "free",
+  "schema": 1,
+  "source": "muse subscription-status",
+  "updated_at": "2026-11-16T14:48:45+08:00",
+  "updated_date": "2026-11-16",
+  "updated_seconds": 53325,
+  "updated_text": "11月16日 14:48",
+  "weekly": {
+    "remaining_pct": 0,
+    "reset_at": "2026-11-17T20:34:00+08:00",
+    "reset_text": "11月17日 20:34",
+    "used_pct": 100
+  }
+}
